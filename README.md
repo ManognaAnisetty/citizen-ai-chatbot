@@ -9,7 +9,6 @@ This project includes a **React-based front-end** and is deployed live on **Netl
 ## 🌐 Live Demo
 
 🎯 [Click here to use the chatbot live](https://citizen-ai-chatbot.netlify.app/)  
-_(Replace with your actual Netlify link)_
 
 ---
 
