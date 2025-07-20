@@ -2,11 +2,11 @@
 
 **Citizen AI** is a smart, AI-powered chatbot built using **IBM Watson Assistant** to help users interact with citizen services like Aadhaar, Voter ID, PAN card, and more. The chatbot uses **Natural Language Processing (NLP)** to understand user queries and provide instant, human-like responses.
 
-This project includes a **React-based front-end** and is deployed live on **Netlify**, with the chatbot powered by **IBM Cloud**.
+This project includes a **React-based front-end**
 
 ---
 
-[click](https://citizen-ai-chatbot.netlify.app/)
+
 
 ---
 
