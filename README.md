@@ -6,7 +6,8 @@ This project includes a **React-based front-end**
 
 ---
 
-
+LIVE DEMO
+[click](https://citizen-ai.netlify.app/)
 
 ---
 
