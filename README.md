@@ -8,7 +8,7 @@ This project includes a **React-based front-end** and is deployed live on **Netl
 
 ## 🌐 Live Demo
 
-🎯 [Click here to use the chatbot live](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Feu-de.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-5b8231fe-1139-4ef9-8b41-481151c85904%3A%3Aa9f8eda8-32df-4b81-9bf5-8a7e97bd7d16&integrationID=0b08c9b4-15d7-45f9-be9b-2892f6011d97&region=eu-de&serviceInstanceID=5b8231fe-1139-4ef9-8b41-481151c85904)  
+🎯 [Click here to use the chatbot live](https://citizenship-ai.netlify.app/)  
 
 ---
 
