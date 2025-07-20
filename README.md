@@ -6,9 +6,7 @@ This project includes a **React-based front-end** and is deployed live on **Netl
 
 ---
 
-## 🌐 Live Demo
 
-🎯 [Click here to use the chatbot live](https://citizenship-ai.netlify.app/)  
 
 ---
 
