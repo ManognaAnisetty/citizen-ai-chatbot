@@ -112,8 +112,8 @@ This project includes a **React-based front-end** and is deployed live on **Netl
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/citizen-ai-chatbot.git
-cd citizen-ai-chatbot
+git clone https://github.com/your-username/citizenship-ai.git
+cd citizenship-ai
 
 # 2. Install dependencies
 npm install
